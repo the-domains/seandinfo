@@ -1,7 +1,7 @@
 name: SeanDinfo
 favicon: null
-layout_spectrum: 0.6333247059956193
-typography_spectrum: 0.7458398751914501
+layout_spectrum: 0.50835
+typography_spectrum: 0.74875
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#F4F482'
   brandStrength: 0.8076681019738317
   lightness: 0.6332978971768171
-  saturation: 0.251551152439788
+  saturation: 0.375
   rhythmicContrast: 0.587786624673754
 purpose: []
