@@ -2,6 +2,7 @@ name: SeanDinfo
 favicon: null
 layout_spectrum: 0.50835
 typography_spectrum: 0.74875
+title: First Site
 cta:
   domain: null
   bucket: null
